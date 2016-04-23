@@ -6,7 +6,10 @@ import com.algopix.parser.HtmlParser;
 import org.apache.http.HttpStatus;
 
 /**
- * Created by Genna on 4/20/2016.
+ * HttpClient receives URL and timeout to print dash sign.
+ * HtmlParser receives HTTP content and trying to parse it using soup library.
+ *
+ * Created by Gennady on 4/20/2016.
  */
 public class MainApplication {
 
